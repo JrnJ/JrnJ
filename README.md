@@ -1,5 +1,7 @@
 # Jeroen
 I'm a C# / C++ / Java developer making desktop applications. 
+<br>My other skills are more web based, these include HTML5, Css, PHP and MySql.
+<br>I use C# primarily in the .NET environment and C++ for my game. I use Java for modding Minecraft.
 
 <h1>My Projects</h1>
 <h3>Game</h3>
