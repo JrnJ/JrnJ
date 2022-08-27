@@ -1,9 +1,9 @@
 # Jeroen
 I'm Jeroen, a software developer.<br>
-I mostly program a lot of random stuff that I like or need, but I also have actual projects!
+I mostly program a lot of random stuff that I like or need, but I also have actual projects!<br>
+Have a look at my repositories :)
 
 <h1>Languages</h1>
-I speak English and Dutch...<br>
 I'm a backend programmer in a variety of languages, my favourite languages are C#, C++ and JavaScript.<br>
 
 # My Projects
