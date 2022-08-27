@@ -1,11 +1,11 @@
 # Jeroen
-I'm a C# / C++ / Java developer.
-<br>My other skills are more web based, these include HTML5, JavaScript, Css, PHP and MySql.
-<br>I use C# primarily in the .NET environment and C++ for my game. I use Java for modding Minecraft and making Android apps.
+<h1>Languages</h1>
+I speak English and Dutch...
+I'm a backend programmer in a variety of languages, my favourite languages are C#, C++ and JavaScript.<br>
+I use C# in the .NET environment and JavaScript for my websites.
 
 <h1>My Projects</h1>
-<h3>Game</h3>
-My main project is making a 2D survival game using C++ and OpenGL. 
-<br>Progress about this project can be followed on my https://jeroenj.com/SurvivalGame
 <h3>Music Player</h3>
-I'm also making a desktop music player for windows, this project is opensource and can be found on my GitHub.
+An open-source music player for Windows.
+<h3>Other</h3>
+There are a lot of random tools on my <a href="https://jeroenj.com>website</a>.
