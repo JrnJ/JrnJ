@@ -9,7 +9,7 @@ I'm a backend programmer in a variety of languages, my favourite languages are C
 # My Projects
 <h3>Music Player</h3>
 An open-source music player for Windows made with WPF using MVVM.<br>
-<a href="https://github.com/MusicPlayer/">Source</a>
+<a href="https://github.com/JrnJ/MusicPlayer/">Source</a>
 
 <h3>Other</h3>
 There are a lot of random tools on my <a href="https://tools.jeroenj.com/">website</a>.
