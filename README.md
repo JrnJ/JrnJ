@@ -4,7 +4,7 @@ I mostly program a lot of random stuff that I like or need, but I also have actu
 Have a look at my <a href="https://github.com/JrnJ?tab=repositories">repositories</a> :)
 
 <h1>Languages</h1>
-I'm a backend programmer in a variety of languages, my favourite languages are C#, C++ and JavaScript.<br>
+I'm a backend programmer in a variety of languages, my favourite languages are C#, C++, Java and JavaScript.<br>
 
 # My Projects
 <h3>Music Player</h3>
