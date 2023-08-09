@@ -11,10 +11,5 @@ I'm a backend programmer in a variety of languages, my favourite languages are C
 An open-source music player for Windows made with WPF using MVVM.<br>
 <a href="https://github.com/JrnJ/MusicPlayer/">Source</a>
 
-<h3>2D Survival Game</h3>
-I plan on making a 2D survival game with C++ and OpenGL without the use of an existing engine.<br>
-After realizing my C++ knowldege was too little, I stopped working on the game. The source code of that project can be found <a href="https://github.com/JrnJ/SurvivalEngine">here</a>.<br>
-As of now, I'm relearning C++ using <a href="https://learncpp.com/">LearnCPP</a> tutorial instead of the too basic w3schools tutorial.
-
 <h3>Other</h3>
 There are a lot of random tools on my <a href="https://tools.jeroenj.com/">website</a>.
